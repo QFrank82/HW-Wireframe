@@ -85,3 +85,24 @@ h6 {
     width: 485px;
     
 }
+
+h7 {
+    color: grey;
+    background-color: rgba(240, 227, 227, 0.952);
+    margin: 15px;
+    text-align: center;
+    width: 495px;
+
+}
+
+h8 {
+    color: grey;
+    background-color: rgba(240, 227, 227, 0.952);
+    margin: 15px;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-size: 35px;
+    font-size: small;
+
+}
